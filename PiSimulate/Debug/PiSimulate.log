@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\User\source\repos\PiSimulate\main.cpp(20,15): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+C:\Users\User\source\repos\PiSimulate\main.cpp(15,9): warning C4101: "interval": Unreferenzierte lokale Variable
+C:\Users\User\source\repos\PiSimulate\main.cpp(63,15): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+  PiSimulate.vcxproj -> C:\Users\User\source\repos\PiSimulate\Debug\PiSimulate.exe

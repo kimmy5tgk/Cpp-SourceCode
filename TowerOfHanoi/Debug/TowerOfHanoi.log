@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\User\source\repos\TowerOfHanoi\main.cpp(42,12): warning C5051: Das Attribut "maybe_unused" erfordert mindestens "/std:c++17". Das Attribut wird ignoriert.
+C:\Users\User\source\repos\TowerOfHanoi\main.cpp(48,12): warning C5051: Das Attribut "maybe_unused" erfordert mindestens "/std:c++17". Das Attribut wird ignoriert.
+C:\Users\User\source\repos\TowerOfHanoi\main.cpp(68,12): warning C5051: Das Attribut "maybe_unused" erfordert mindestens "/std:c++17". Das Attribut wird ignoriert.
+  TowerOfHanoi.vcxproj -> C:\Users\User\source\repos\TowerOfHanoi\Debug\TowerOfHanoi.exe
